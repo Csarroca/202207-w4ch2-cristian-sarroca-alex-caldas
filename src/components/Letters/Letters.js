@@ -6,7 +6,7 @@ const Letters = () => {
     return arrayfavet.map((letter) => {
       return (
         <li className="letter" key={letter}>
-          <a href="a">{letter}</a>
+          <a href="#">{letter}</a>
         </li>
       );
     });
