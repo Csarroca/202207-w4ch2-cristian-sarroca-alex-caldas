@@ -26,3 +26,5 @@ const alphabet = [
   "y",
   "z",
 ];
+
+export default alphabet;

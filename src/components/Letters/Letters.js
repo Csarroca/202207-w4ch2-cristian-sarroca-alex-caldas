@@ -4,7 +4,7 @@ const Letters = () => {
   return (
     <ul className="letters">
       <li className="letter">
-        <a href="javascript:;">A</a>
+        <a href="a">A</a>
       </li>
       <li className="letter">
         <a href="b">B</a>
