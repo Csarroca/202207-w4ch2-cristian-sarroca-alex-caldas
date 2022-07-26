@@ -10,7 +10,7 @@ function App() {
       <div className="container">
         <div className="main-container">
           <UsedLetters />
-          <Hangman />
+          <Hangman fails={0} />
         </div>
         <GuessLetters />
         <Result />
